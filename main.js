@@ -330,7 +330,7 @@ Vue.component('cv', {
                             <h2 class="title is-2">Find my Resume here</h2>
                         </div>
                         <div class="column">
-                            <a href="/assets/cv.pdf" class="button is-link is-large">
+                            <a target="_blank" href="/assets/cv-falko-moeller.pdf" class="button is-link is-large">
                                 <span class="icon is-large">
                                   <i class="fa fa-download"></i>
                                 </span>

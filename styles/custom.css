@@ -32,6 +32,12 @@ a:hover .card,
 }
 
 a .card,
-.button.is-link {
+.button.is-link,
+span.fa {
     transition: transform .2s;
+}
+
+a:hover span.fa {
+    color: blue;
+    transform: scale(1.1);
 }

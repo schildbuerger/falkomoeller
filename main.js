@@ -334,7 +334,7 @@ Vue.component('cv', {
                                 <span class="icon is-large">
                                   <i class="fa fa-download"></i>
                                 </span>
-                                <span>Download</span>
+                                <span>cv-falko-moeller.pdf</span>
                             </a>
                         </div>
                     </div>

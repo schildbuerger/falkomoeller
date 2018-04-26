@@ -25,3 +25,13 @@ export default {
   name: 'resume'
 }
 </script>
+
+<style scoped>
+.button {
+    transition: transform .2s;
+}
+.button:hover{
+    transform: scale(1.1);
+    z-index: 5;
+}
+</style>

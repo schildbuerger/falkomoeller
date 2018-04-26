@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import intro from './components/intro.vue';
-import expose from './components/expose.vue';
-import resume from './components/resume.vue';
-import vfooter from './components/footer.vue';
+import intro from './components/intro.vue'
+import expose from './components/expose.vue'
+import resume from './components/resume.vue'
+import vfooter from './components/footer.vue'
 
 export default {
   name: 'app',
